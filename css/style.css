@@ -1,0 +1,28 @@
+.HomnWindow ,.LoginWindow , .LoginWindow{
+    background-color: #24353f;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+    color: rgb(23, 162, 184);
+}
+
+
+body{
+    background-color: #24353f;
+}
+.nav_hom{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+   
+}
+
+input{
+    background-color: rgba(0, 0, 0, 0) !important;
+    
+
+}
+
+input::placeholder
+{
+    color: rgb(255, 255, 255) !important;
+}
+
+
+
